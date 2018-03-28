@@ -1,6 +1,6 @@
 {
   "name": "siwi-uniquestring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[![Build Status](https://travis-ci.org/siwilizhao/siwi-uniquestring.svg?branch=master)](https://travis-ci.org/siwilizhao/siwi-uniquestring) [![npm](https://img.shields.io/npm/v/siwi-uniquestring.svg)](https://www.npmjs.com/package/siwi-uniquestring) [![npm](https://img.shields.io/npm/dt/siwi-uniquestring.svg)](https://www.npmjs.com/package/siwi-uniquestring)",
   "main": "index.js",
   "directories": {
@@ -14,7 +14,14 @@
     "type": "git",
     "url": "git+https://github.com/siwilizhao/siwi-uniquestring.git"
   },
-  "keywords": ["siwi-uniquestring", "uniquestring", "random", "randomstring", "siwilizhao", "siwi"],
+  "keywords": [
+    "siwi-uniquestring",
+    "uniquestring",
+    "random",
+    "randomstring",
+    "siwilizhao",
+    "siwi"
+  ],
   "author": "siwi",
   "license": "MIT",
   "bugs": {
