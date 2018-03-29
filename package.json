@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/siwilizhao/siwi-uniquestring/issues"
   },
-  "homepage": "https://github.com/siwilizhao/siwi-uniquestring#readme"
+  "homepage": "https://github.com/siwilizhao/siwi-uniquestring#readme",
+  "engines": {
+    "node": ">= 8.9"
+  }
 }

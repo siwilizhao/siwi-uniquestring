@@ -1,6 +1,9 @@
-[![Build Status](https://travis-ci.org/siwilizhao/siwi-uniquestring.svg?branch=master)](https://travis-ci.org/siwilizhao/siwi-uniquestring)
+[![node](https://img.shields.io/node/v/siwi-uniquestring.svg)](https://www.npmjs.com/package/siwi-uniquestring)
+[![Build Status](https://travis-ci.org/siwilizhao/siwi-uniquestring.svg?branch=master)](https://travis-ci.org/siwilizhao/s)
 [![npm](https://img.shields.io/npm/v/siwi-uniquestring.svg)](https://www.npmjs.com/package/siwi-uniquestring)
 [![npm](https://img.shields.io/npm/dt/siwi-uniquestring.svg)](https://www.npmjs.com/package/siwi-uniquestring)
+[![Github file size](https://img.shields.io/github/size/siwilizhao/siwi-uniquestring/lib/uniquestring.js.svg)](https://github.com/siwilizhao/siwi-uniquestring/lib/uniquestring.js)
+[![npm](https://img.shields.io/npm/l/siwi-uniquestring.svg)](https://www.npmjs.com/package/siwi-uniquestring)
 
 # siwi-uniquestring
 生成指定长度的随机字符串
