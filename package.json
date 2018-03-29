@@ -1,7 +1,7 @@
 {
   "name": "siwi-uniquestring",
   "version": "1.0.1",
-  "description": "[![Build Status](https://travis-ci.org/siwilizhao/siwi-uniquestring.svg?branch=master)](https://travis-ci.org/siwilizhao/siwi-uniquestring) [![npm](https://img.shields.io/npm/v/siwi-uniquestring.svg)](https://www.npmjs.com/package/siwi-uniquestring) [![npm](https://img.shields.io/npm/dt/siwi-uniquestring.svg)](https://www.npmjs.com/package/siwi-uniquestring)",
+  "description": "生成指定长度的字符串",
   "main": "index.js",
   "directories": {
     "lib": "lib",
